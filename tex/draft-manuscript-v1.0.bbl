@@ -5,9 +5,10 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{Lamarsh and Baratta(2001)}]{Lamarsh}
-Lamarsh, John~R., Baratta, Anthony~J., 2001.
-\newblock {Introduction to Nuclear Engineering}.
-\newblock Upper Sadle River, New Jersey: Pretice Hall, 3rd edn.
+\bibitem[{Root(2023)}]{RootThesis}
+Root, Sam~J., 2023.
+\newblock {Dynamic System Modeling \& \acs{pid} Controller Design for Molten
+  Salt Microreactor}.
+\newblock Master's thesis, University of Idaho.
 
 \end{thebibliography}

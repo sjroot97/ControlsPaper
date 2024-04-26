@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.1)  17 FEB 2024 14:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.1)  24 APR 2024 22:49
 entering extended mode
 **c:/Users/sjroo/OneDrive/Documents/UIdaho/Thesis/Journal/ControlsPaper/tex/draft-manuscript-v1.0.tex
 (c:/Users/sjroo/OneDrive/Documents/UIdaho/Thesis/Journal/ControlsPaper/tex/draft-manuscript-v1.0.tex
@@ -896,30 +896,30 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 \f@nch@O@olf=\skip90
 \f@nch@O@orf=\skip91
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 235.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 236.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (draft-manuscript-v1.0.aux)
 \openout1 = `draft-manuscript-v1.0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 235.
-LaTeX Font Info:    ... okay on input line 235.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -978,7 +978,7 @@ Package footnotehyper Info: using \@makefntext{} approach.
  In case of problems with the footnote environments, please send
  to the author a small document source illustrating them. To turn
  off this message, add \footnotehyperwarnfalse to preamble.
- on input line 235.
+ on input line 236.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
 File: fc-english.def 2016/01/12
 ) (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
@@ -991,15 +991,15 @@ Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/ptm/m/n --> TS1/ptm/b/n on input line 235.
-Package gensymb Info: Math companion symbols declared on input line 235.
-LaTeX Info: Redefining \degree on input line 235.
-LaTeX Info: Redefining \celsius on input line 235.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 235.
-LaTeX Info: Redefining \ohm on input line 235.
-Package gensymb Info: Using \textohm for \ohm on input line 235.
-Package gensymb Info: Using \textmu for \micro on input line 235.
-Package hyperref Info: Link coloring OFF on input line 235.
+(Font)                  TS1/ptm/m/n --> TS1/ptm/b/n on input line 236.
+Package gensymb Info: Math companion symbols declared on input line 236.
+LaTeX Info: Redefining \degree on input line 236.
+LaTeX Info: Redefining \celsius on input line 236.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 236.
+LaTeX Info: Redefining \ohm on input line 236.
+Package gensymb Info: Using \textohm for \ohm on input line 236.
+Package gensymb Info: Using \textmu for \micro on input line 236.
+Package hyperref Info: Link coloring OFF on input line 236.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -1009,47 +1009,52 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count401
 )
-LaTeX Info: Redefining \ref on input line 235.
-LaTeX Info: Redefining \pageref on input line 235.
-LaTeX Info: Redefining \nameref on input line 235.
+LaTeX Info: Redefining \ref on input line 236.
+LaTeX Info: Redefining \pageref on input line 236.
+LaTeX Info: Redefining \nameref on input line 236.
  (draft-manuscript-v1.0.out) (draft-manuscript-v1.0.out)
 \@outlinefile=\write4
 \openout4 = `draft-manuscript-v1.0.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 235.
+(lastpage)             ! on input line 236.
 
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 235.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 236.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 254.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 255.
 (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 254.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 255.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 254.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 255.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1{C:/Users/sjroo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 283.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 284.
  (C:\Users\sjroo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.286 \newpage
+l.287 \newpage
                [1]
-Package marginnote Info: Using workaround for absolute page number on input line 286.
+Package marginnote Info: Using workaround for absolute page number on input line 287.
 
 Using TeX to sort glossary entries---this may take a while
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] (draft-manuscript-v1.0.bbl) [12] (draft-manuscript-v1.0.lot)
+[2] [3] [4] [5] [6] [7] [8] [9] [10]
+Overfull \hbox (0.70795pt too wide) in paragraph at lines 373--374
+\OT1/ptm/m/n/10.95 This work was com-pleted un-der a Grad-u-ate Fel-low-ship funded by [][]Nu-clear Reg-u-la-tory Comis-sion[] ([][]NRC[]). 
+ []
+
+[11] (draft-manuscript-v1.0.bbl) [12] (draft-manuscript-v1.0.lot)
 \tf@lot=\write5
 \openout5 = `draft-manuscript-v1.0.lot'.
 
@@ -1057,13 +1062,14 @@ Using TeX to sort glossary entries---this may take a while
 \tf@lof=\write6
 \openout6 = `draft-manuscript-v1.0.lof'.
 
- [14]
+ [14] (tikz/ReactorControlLoop.tex) (tikz/peace.tex)
+
+Package lineno Warning: Linenumber reference failed, 
+(lineno)                rerun to get it right.
+
+[15]
 
 Package caption Warning: Unused \captionsetup[table] on input line 72.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: Unused \captionsetup[figure] on input line 73.
 See the caption package documentation for explanation.
 
 
@@ -1073,17 +1079,17 @@ Package rerunfilecheck Info: File `draft-manuscript-v1.0.out' has not changed.
 (rerunfilecheck)             Checksum: 0AB6EFCDC386C681760B9FF491B66215;1053.
  ) 
 Here is how much of TeX's memory you used:
- 32792 strings out of 478927
- 585053 string characters out of 2852536
- 949726 words of memory out of 3000000
- 49935 multiletter control sequences out of 15000+600000
- 426998 words of font info for 73 fonts, out of 8000000 for 9000
+ 33031 strings out of 478927
+ 590284 string characters out of 2852536
+ 960075 words of memory out of 3000000
+ 50157 multiletter control sequences out of 15000+600000
+ 433454 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,117p,1110b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on draft-manuscript-v1.0.pdf (15 pages, 71615 bytes).
+ 99i,16n,117p,1110b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sjroo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on draft-manuscript-v1.0.pdf (16 pages, 113375 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

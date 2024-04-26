@@ -8,42 +8,42 @@ Database file #1: ./rcs/bibliography.bib
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 You've used 1 entry,
             3248 wiz_defined-function locations,
-            662 strings with 5135 characters,
-and the built_in function-call counts, 591 in all, are:
-= -- 46
-> -- 21
-< -- 2
-+ -- 7
-- -- 7
-* -- 36
-:= -- 94
+            662 strings with 5140 characters,
+and the built_in function-call counts, 403 in all, are:
+= -- 33
+> -- 10
+< -- 1
++ -- 4
+- -- 4
+* -- 18
+:= -- 79
 add.period$ -- 3
 call.type$ -- 1
-change.case$ -- 8
-chr.to.int$ -- 5
+change.case$ -- 6
+chr.to.int$ -- 2
 cite$ -- 1
-duplicate$ -- 43
-empty$ -- 46
-format.name$ -- 11
-if$ -- 118
+duplicate$ -- 29
+empty$ -- 29
+format.name$ -- 4
+if$ -- 72
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 10
+missing$ -- 5
 newline$ -- 12
 num.names$ -- 4
-pop$ -- 24
+pop$ -- 13
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 5
 quote$ -- 0
-skip$ -- 22
+skip$ -- 13
 stack$ -- 0
-substring$ -- 13
-swap$ -- 19
+substring$ -- 11
+swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 9
 warning$ -- 0
-while$ -- 4
+while$ -- 3
 width$ -- 0
 write$ -- 19

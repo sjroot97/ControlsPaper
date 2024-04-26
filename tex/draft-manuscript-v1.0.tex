@@ -153,6 +153,7 @@
 \newacronym{hpc}{HPC}{High Performance Computing}
 \newacronym{inl}{INL}{Idaho National Laboratory}
 \newacronym{doe}{DOE}{Department of Energy}
+\newacronym{pid}{PID}{Proportional-Integral-Derivative}
 \newacronym{nsuf}{NSUF}{Nuclear Science User Facility}
 
 %Nuclides
@@ -296,7 +297,7 @@
 
 
 \section{Introduction} \label{sec-intro}
-\cite{Lamarsh}
+\cite{RootThesis}
 \subsection{Motivation} \label{sec-motiv}
 
 \subsection{Goals} \label{sec-goals}
@@ -369,7 +370,9 @@ Major results and implications include -
 
 
 \section*{Acknowledgements}
-
+This work was completed under a Graduate Fellowship funded by \acf{nrc}.
+   
+This research made use of the resources of the High Performance Computing Center at Idaho National Laboratory, which is supported by the Office of Nuclear Energy of the U.S. Department of Energy and the Nuclear Science User Facilities under Contract No. DE-AC07-05ID14517.
 
 \newpage
 
@@ -451,6 +454,15 @@ Major results and implications include -
 %    \label{fig-label-name}
 %\end{figure}
 
+\begin{figure}[!ht]
+    \centering
+    \resizebox{\textwidth}{!}{\input{tikz/ReactorControlLoop}}
+    \caption[Control loop of a natural circulation \acs{msnb}]{Control loop of a natural circulation \acs{msnb}. It is a normal feedback loop with a pre-filter, with the addition of the passive feedback mechanisms. The core ($\dot{Q}_{Core}$) and heat exchanger ($\dot{Q}_{HEX}$) powers go through the respective temperature dynamics ($G_C$ and $G_H$) and time delays for the riser ($\theta_R$) and downcomer ($\theta_{DC}$) before being converted to reactivity by the temperature($\alpha_T$) and flow ($\alpha_F$) feedback mechanisms. The passive reactivity feedback is combined with the control drum reactivity ($\rho_{CD}$) and fed into the reactor dynamics ($P(s)$).  }
+    \label{fig:ReactorControlLoop}
+\end{figure}
+
+
+\input{tikz/peace}
 
 \newpage
 
