@@ -5,45 +5,49 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 The style file: ./rcs/standard.bst
 Reallocating 'name_of_file' (item size: 1) to 19 items.
 Database file #1: ./rcs/bibliography.bib
+Warning--I didn't find a database entry for "atr"
+Warning--I didn't find a database entry for "AT-CD"
+Warning--I didn't find a database entry for "CarterNumerical"
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-You've used 1 entry,
+You've used 4 entries,
             3248 wiz_defined-function locations,
-            662 strings with 5140 characters,
-and the built_in function-call counts, 403 in all, are:
-= -- 33
-> -- 10
-< -- 1
-+ -- 4
-- -- 4
-* -- 18
-:= -- 79
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 2
-cite$ -- 1
-duplicate$ -- 29
-empty$ -- 29
-format.name$ -- 4
-if$ -- 72
+            687 strings with 5658 characters,
+and the built_in function-call counts, 1815 in all, are:
+= -- 146
+> -- 61
+< -- 5
++ -- 22
+- -- 19
+* -- 99
+:= -- 309
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 26
+chr.to.int$ -- 8
+cite$ -- 4
+duplicate$ -- 139
+empty$ -- 143
+format.name$ -- 30
+if$ -- 356
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 5
-newline$ -- 12
-num.names$ -- 4
-pop$ -- 13
+missing$ -- 29
+newline$ -- 27
+num.names$ -- 16
+pop$ -- 72
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 22
 quote$ -- 0
-skip$ -- 13
+skip$ -- 62
 stack$ -- 0
-substring$ -- 11
-swap$ -- 10
+substring$ -- 46
+swap$ -- 55
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 9
+type$ -- 30
 warning$ -- 0
-while$ -- 3
+while$ -- 13
 width$ -- 0
-write$ -- 19
+write$ -- 57
+(There were 3 warnings)
